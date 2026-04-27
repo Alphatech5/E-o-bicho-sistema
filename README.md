@@ -1,7 +1,7 @@
 # ADS-P1-G1-2025-2
 
 <p align="center">
-  <img src="assets/WhatsApp Image 2026-04-04 at 14.50.34.jpeg" alt="AlphaTech Logo" width="300"/>
+  <img src="assets/Logo.jpeg" alt="AlphaTech Logo" width="300"/>
 </p>
 
 <h3>📌 Sobre o Projeto</h3>
