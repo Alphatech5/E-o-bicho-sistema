@@ -37,6 +37,6 @@ O sistema foi concebido para atender duas frentes principais:
 
  * Igor Rodrigues  - Project Owner
  * Vanessa Santana  - Tech Lead
- * Joel Folha Verde  - Backend 
+ * Joel de Almeida  - Backend 
  * Yan Lucca Menossi-  DBA
  * Maria Fernanda Reis – Frontend 
